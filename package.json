@@ -1,0 +1,12 @@
+{
+  "name": "@trejs/assets",
+  "version": "1.0.0",
+  "description": "Repository containting static assets for TresJS demos",
+  "author": "Alvaro Saburido <hola@alvarosaburido.dev> (https://github.com/alvarosabu/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
