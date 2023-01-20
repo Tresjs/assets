@@ -1,0 +1,11 @@
+Model Information:
+* title:	Metal Gear Rex
+* source:	https://sketchfab.com/3d-models/metal-gear-rex-7078266ac0e7463db9093e0bbf9c59b1
+* author:	Zdarova (https://sketchfab.com/Zdarova)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Metal Gear Rex" (https://sketchfab.com/3d-models/metal-gear-rex-7078266ac0e7463db9093e0bbf9c59b1) by Zdarova (https://sketchfab.com/Zdarova) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
