@@ -3,6 +3,10 @@
         "generator" : "Khronos glTF Blender I/O v3.4.50",
         "version" : "2.0"
     },
+    "extensionsUsed" : [
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+    ],
     "scene" : 0,
     "scenes" : [
         {
@@ -15,12 +19,34 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "Low Poly Cloud",
-            "translation" : [
-                0.10507941246032715,
-                0.19887447357177734,
-                0.12808507680892944
-            ]
+            "name" : "Low Poly Cloud"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_specular" : {
+                    "specularColorFactor" : [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "name" : "Material",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    0.8921833038330078
+                ],
+                "metallicFactor" : 0
+            }
         }
     ],
     "meshes" : [
@@ -33,7 +59,8 @@
                         "TEXCOORD_0" : 1,
                         "NORMAL" : 2
                     },
-                    "indices" : 3
+                    "indices" : 3,
+                    "material" : 0
                 }
             ]
         }
