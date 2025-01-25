@@ -1,0 +1,11 @@
+Model Information:
+* title:	Monstera B03
+* source:	https://www.fab.com/listings/081bde6d-8615-4575-ba10-27e8741ea01c
+* author:	TaSeen (https://www.fab.com/sellers/MozzarellaARC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Monstera B03" (https://www.fab.com/listings/081bde6d-8615-4575-ba10-27e8741ea01c) by MozzarellaARC (https://www.fab.com/sellers/MozzarellaARC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
