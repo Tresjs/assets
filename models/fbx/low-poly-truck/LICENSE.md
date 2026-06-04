@@ -1,1 +1,0 @@
-"Low-poly truck (car "Drifter")" (https://skfb.ly/6QUOx) by Ivan Norman is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
