@@ -1,4 +1,4 @@
-![repository-banner.png](https://github.com/Tresjs/tres/blob/main/public/github-banner.png)
+![repo-banner](https://github.com/Tresjs/.github/raw/main/.github/tres-banner.png)
 
 # TresJS models
 
