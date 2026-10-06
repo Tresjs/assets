@@ -1,0 +1,14 @@
+Model Information:
+* title:	Nuxty
+* files:	nuxty.gltf, Skin.png, Nuxt-Shirt.png
+* author:	Alvaro Saburido (https://github.com/alvarosabu)
+* created:	2022, for the TresJS demos
+
+Model License:
+* license type:	CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	None. Attribution is not required.
+
+Trademark notice:
+The shirt texture (Nuxt-Shirt.png) shows the Nuxt logo. The CC0 dedication
+covers only the 3D model and textures that the author made. It does not grant
+any rights to the Nuxt name or logo. These belong to their owners.

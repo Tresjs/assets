@@ -1,0 +1,9 @@
+Model Information:
+* title:	Low Poly Planet, Airplane and Cloud
+* files:	planet.gltf, airplane.gltf, cloud.gltf
+* author:	Alvaro Saburido (https://github.com/alvarosabu)
+* created:	2023, for the TresJS demos
+
+Model License:
+* license type:	CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	None. Attribution is not required.
