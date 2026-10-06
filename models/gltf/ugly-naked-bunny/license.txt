@@ -1,0 +1,10 @@
+Model Information:
+* title:	Ugly Naked Bunny
+* files:	ugly-naked-bunny*.gltf, ugly-naked-bunny.glb, ugly-naked-bunny.bin,
+		Face_29.png, assets/Face_*.png
+* author:	Alvaro Saburido (https://github.com/alvarosabu)
+* created:	2023, for the TresJS demos
+
+Model License:
+* license type:	CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	None. Attribution is not required.
